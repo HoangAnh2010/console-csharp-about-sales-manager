@@ -1,0 +1,7 @@
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\bin\Debug\CTBHChoShopMyPham.exe.config
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\bin\Debug\CTBHChoShopMyPham.exe
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\bin\Debug\CTBHChoShopMyPham.pdb
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\obj\Debug\CTBHChoShopMyPham.csprojAssemblyReference.cache
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\obj\Debug\CTBHChoShopMyPham.csproj.CoreCompileInputs.cache
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\obj\Debug\CTBHChoShopMyPham.exe
+E:\PROJECT1\CTBHChoShopMyPham\CTBHChoShopMyPham\CTBHChoShopMyPham\obj\Debug\CTBHChoShopMyPham.pdb
