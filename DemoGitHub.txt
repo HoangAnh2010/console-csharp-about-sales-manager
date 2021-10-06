@@ -1,9 +1,0 @@
-using System;
-    class Console1
-    {
-        static void Main(string [] arg)
-        {
-            Console.WriteLine("Hello Word");
-        }
-    }
-}
